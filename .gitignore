@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+rsconnect
+harmful_meteorological_events_cache
+*.Rproj
+*.html
